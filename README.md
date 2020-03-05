@@ -1,17 +1,18 @@
-# ukk
-#demo 
+aplikasi web pengaduan paket 2
+
+demo :  
 http://webpengaduan.000webhostapp.com
 
-login
+login : admin 
 
-admin 
+user : admin
 
-user admin
+pass : admin
 
-pass admin
+login : masyarakat
 
-masyarakat
+user : catur
 
-user catur
+pass : catur
 
-pass catur
+#yg kasir cek sendiri di db
